@@ -34,3 +34,7 @@ function countSort(arr) {
 const arr = [2, 5, 3, 0, 2, 3, 0, 3];
 const ans = countSort(arr);
 console.log(ans);  
+
+
+output:
+0, 0, 2, 2, 3, 3, 3, 5
