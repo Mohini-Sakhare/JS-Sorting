@@ -22,3 +22,7 @@ if (isSorted(arr)) {
 } else {
     console.log("false");
 }
+
+
+output:
+true 
